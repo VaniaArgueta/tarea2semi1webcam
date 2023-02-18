@@ -1,3 +1,17 @@
+# Tarea 2 de laboratorio - Seminario de Sistemas 1
+
+## Sitio web estático alojado en AWS S3 
+https://1s2023tarea2semi1.s3.us-west-2.amazonaws.com/index.html
+
+
+Sitio web simple que muestra la cámara web. 
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
